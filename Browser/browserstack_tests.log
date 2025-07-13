@@ -1,0 +1,13 @@
+2025-07-12 22:49:01,425 - INFO - Verifying BrowserStack credentials...
+2025-07-12 22:49:01,425 - INFO - Credentials verified successfully
+2025-07-12 22:49:01,425 - INFO - Starting parallel BrowserStack tests
+2025-07-12 22:49:01,426 - INFO - Starting test on Windows Chrome Test
+2025-07-12 22:49:01,427 - INFO - Starting test on Windows Firefox Test
+2025-07-12 22:49:01,427 - ERROR - Error in Windows Chrome Test: WebDriver.__init__() got an unexpected keyword argument 'desired_capabilities'
+2025-07-12 22:49:01,427 - ERROR - Error in Windows Firefox Test: WebDriver.__init__() got an unexpected keyword argument 'desired_capabilities'
+2025-07-12 22:49:01,428 - INFO - Starting test on Mac Safari Test
+2025-07-12 22:49:01,428 - INFO - Starting test on Android Mobile Test
+2025-07-12 22:49:01,428 - INFO - Starting test on iOS Mobile Test
+2025-07-12 22:49:01,428 - ERROR - Error in Mac Safari Test: WebDriver.__init__() got an unexpected keyword argument 'desired_capabilities'
+2025-07-12 22:49:01,428 - ERROR - Error in Android Mobile Test: WebDriver.__init__() got an unexpected keyword argument 'desired_capabilities'
+2025-07-12 22:49:01,429 - ERROR - Error in iOS Mobile Test: WebDriver.__init__() got an unexpected keyword argument 'desired_capabilities'

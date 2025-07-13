@@ -1,0 +1,35 @@
+userName: soubarnikas_7IOvsS
+accessKey: GXUNrmpaJC4dfSPuMFdE
+
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: 120.0
+  - os: OS X
+    osVersion: Monterey
+    browserName: Safari
+    browserVersion: 15.6
+  - deviceName: iPhone 13
+    osVersion: 15
+    browserName: Chromium
+    deviceOrientation: portrait
+  - os: Windows
+    osVersion: 11
+    browserName: Edge
+    browserVersion: 119.0
+  - deviceName: Samsung Galaxy S22
+    osVersion: 12.0
+    browserName: Chromium
+    deviceOrientation: portrait
+
+browserstackLocal: true
+buildName: bstack-demo
+projectName: BrowserStack Sample
+
+CUSTOM_TAG_1: "You can set a custom Build Tag here"
+
+debug: true
+networkLogs: true
+consoleLogs: info
+framework: python

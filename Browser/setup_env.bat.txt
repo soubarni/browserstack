@@ -1,0 +1,6 @@
+@echo off
+setx BROWSERSTACK_USERNAME "soubarnikas_7IOvsS"
+setx BROWSERSTACK_ACCESS_KEY "GXUNrmpaJC4dfSPuMFdE"
+set BROWSERSTACK_USERNAME=soubarnikas_7IOvsS
+set BROWSERSTACK_ACCESS_KEY=[REDACTED:AWS_ACCESS_KEY]
+echo BrowserStack credentials set successfully
